@@ -4,6 +4,7 @@
 ## Requirements
 
 - Python 3.10+
+- A Proxy / VPN just in-case to not get banned
 
 ## Setup
 
