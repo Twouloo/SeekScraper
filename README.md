@@ -1,5 +1,4 @@
 # Seek Scraper
-<img width="475" height="301" alt="image" src="https://github.com/user-attachments/assets/ff3208ed-4c91-49de-9862-f90d3c0a511f" />
 
 ## Requirements
 
