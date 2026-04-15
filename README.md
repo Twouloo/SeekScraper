@@ -1,4 +1,5 @@
 # Seek Scraper
+Scrape jobs from Seek.com
 
 ## Requirements
 
