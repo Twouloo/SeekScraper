@@ -1,6 +1,5 @@
 # Seek Scraper
-
-Job scraper and detail fetcher for [seek.com.au](https://www.seek.com.au). Searches for jobs by keyword, collects job IDs across all result pages, then fetches full details for each job via Seek's GraphQL API.
+<img width="475" height="301" alt="image" src="https://github.com/user-attachments/assets/ff3208ed-4c91-49de-9862-f90d3c0a511f" />
 
 ## Requirements
 
